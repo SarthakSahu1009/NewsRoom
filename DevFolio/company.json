@@ -1,0 +1,14 @@
+[
+    {
+        "name": "big",
+        "numberofenploy": 1000,
+        "ceo": "marry",
+        "rating":23
+    },
+    {
+         "name":"small startup",
+         "numberofenploy":3,
+         "ceo":null,
+         "rating":4.5
+            }
+]
