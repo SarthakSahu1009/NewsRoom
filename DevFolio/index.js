@@ -1,15 +1,15 @@
-var express = reqire('express');
+var express = require('express');
 
 var app = express();
 
 app.get('/',function(req,res)
 {
-    res.sendfile('login.html');
+    res.sendfile('./login.html');
 
 })
 app.get('/welcome',function(req,res)
 {
-    res.sendfile('welcome.html');
+    res.sendfile('./welcome.html');
 })
 
 app.listen(3001,()=>

@@ -1,0 +1,17 @@
+{
+  "name": "devfolio",
+  "version": "1.0.0",
+  "description": "yo",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
